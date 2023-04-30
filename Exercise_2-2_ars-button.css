@@ -1,0 +1,15 @@
+.numbers{
+    margin: 20px 0;
+    text-align: center
+}
+
+.shape{
+    border-radius: 20px;
+    border: 1px solid black;
+    display: inline-block;
+    width: 50px;
+    padding-top: 12px;
+    padding-bottom: 15px;
+    margin: 0 10px;
+    background-color: rgb(224, 116, 134)
+}
