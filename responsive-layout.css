@@ -1,0 +1,39 @@
+div{
+    margin: 10px 0
+}
+.header{
+    background-color: pink;
+    height: 100px;
+    border: 2px solid red
+}
+
+.navbar{
+    background-color: gold;
+    height: 200px;
+    border: 2px solud orange
+}
+
+.content{
+    background-color: skyblue;
+    height: 200px;
+    border: 2px solid darkblue
+}
+
+.footer{
+    background-color: aquamarine;
+    height: 300px;
+    border: 2px solid green
+}
+
+@media only screen and (min-width: 800px){
+    .navbar{
+        width: 20%;
+        height: 500px;
+        display: inline-block
+    }
+    .content{
+        width: 79%;
+        height: 500px;
+        display: inline-block
+    }
+}
