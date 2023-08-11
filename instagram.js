@@ -148,8 +148,3 @@ function main() {
   window.addEventListener("scroll", ()=> {
     scrollToTopButton.style.display = "block";
   });
-/*
-  const logoImage = document.createElement("img");
-  logoImage.classList.add("logo-image");
-  logoImage.src = "img/logo.png";
-*/
